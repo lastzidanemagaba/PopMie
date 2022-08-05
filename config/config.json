@@ -1,0 +1,12 @@
+{
+    "target_reader": {
+        "port": 6000,
+        "ip": "192.168.22.222",
+        "is_udp":false,
+        "timeout": 5
+    },
+
+    "log": {
+        "verbose": true
+    }
+}
